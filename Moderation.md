@@ -2,7 +2,7 @@
 
 The Windows Package Manager community repository is the location for manifests published in the default Windows Package Manager source. Automated pipelines validate and publish these manifests. The quality of the metadata has a direct impact on customer experience. Human review has proven to be an invaluable tool for ensuring we can provide the best experiences.
 
-tyryuiuwyhiuwe jghfajkhflsdhfljk kjldshfljksadhflsdaf
+tyryuiuwyhiuwe jghfajkhflsdhfljk
 
 ## Moderators
 
